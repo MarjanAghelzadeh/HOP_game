@@ -9,4 +9,4 @@ def game(n):
             print('Yo')
         else:
             print(i)
-game(102)
+game(105)
